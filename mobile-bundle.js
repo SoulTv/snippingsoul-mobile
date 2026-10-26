@@ -1,3 +1,4 @@
+window.__ssMobileBundleReached=true;
 /* Embedded by build-mobile.cjs. This file alone is not the bookmarklet. */
 (async () => {
   if (location.protocol !== 'https:' || location.hostname !== 'www.ea.com' || !location.pathname.includes('/ultimate-team/web-app')) {
